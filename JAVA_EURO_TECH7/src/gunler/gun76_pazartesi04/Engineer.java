@@ -25,7 +25,6 @@ public class Engineer extends Person{
     public void work() {
 
         System.out.println(this.getName()+"Er arbeitet als Engineer  in diesem Fabrik");
-
     }
 
     @Override
@@ -37,6 +36,7 @@ public class Engineer extends Person{
 
         System.out.println("ich bin ein Engineer und ich baue etwas");
     }
+
 
 
 
