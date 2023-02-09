@@ -12,6 +12,7 @@ public class FileOps {
 
         File file = new File("JAVA_EURO_TECH7/src/gunler/gun78_carsamba08/Data.txt");
         Scanner satirOku = null;
+        int sayi;
 
         try {
 
