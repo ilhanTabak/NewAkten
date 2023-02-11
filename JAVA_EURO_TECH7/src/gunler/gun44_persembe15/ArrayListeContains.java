@@ -40,5 +40,10 @@ public class ArrayListeContains {
         System.out.println(array3);
 
 
+
+        array1.addAll(array2);
+        System.out.println(array1);
+
+
     }
 }
